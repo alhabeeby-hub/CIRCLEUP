@@ -46,3 +46,6 @@ contracts/target/
 # Note: Cargo.lock IS committed (pinned deps for CI reproducibility)
 
 .cargo-home-temp/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
